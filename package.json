@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/amonako/video-robo/issues"
   },
-  "homepage": "https://github.com/amonako/video-robo#readme"
+  "homepage": "https://github.com/amonako/video-robo#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
